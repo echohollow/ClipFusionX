@@ -56,6 +56,7 @@ gcc -o ClipFusionX main.c peb_spoof.c -lntdll
 
 # Or with G++ if you prefer
 # g++ -o ClipFusionX main.c peb_spoof.c -lntdll
+# And if all fails try this - gcc -o ClipFusionX main.c peb_spoof.c -lntdll -lgdi32 -luser32 -D_WIN32_WINNT=0x0600 -lm
 ```
 
 ## 🧪 Development Status
