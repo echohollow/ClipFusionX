@@ -2,6 +2,7 @@
 #include <winternl.h>
 #include <stdint.h>
 #include <string.h>
+#include <stdio.h>
 
 // Memory section operations
 typedef NTSTATUS(NTAPI* NtCreateSectionFn)(
