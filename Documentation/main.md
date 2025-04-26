@@ -2,6 +2,8 @@
 
 ## What I'm Building Here
 
+![ClipFusionX_ Technical Explanation - visual selection](https://github.com/user-attachments/assets/46926cb5-1566-4f71-be16-4c2ec3e130f8)
+
 Hey there! I wanted to explain what this code is all about. I've created ClipFusionX as a research project to explore Windows internals, particularly around clipboard operations and memory pattern detection. This is all about learning how these systems work under the hood.
 
 ## The Core Concepts
