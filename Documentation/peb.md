@@ -9,6 +9,8 @@ I wanted to explore one of Windows' most fascinating internal structures: the Pr
 - What modules (DLLs) it has loaded
 - Various flags that control how it behaves
 
+![Understanding the PEB_ Process Environment Block Exploration - visual selection](https://github.com/user-attachments/assets/74038f33-1f02-4b04-b07c-dbfbb8da5ad2)
+
 ## Why This Is Interesting
 
 The PEB exists in a special area of memory that's accessible to both the Windows kernel and the user-mode process. This makes it a unique interface between these two worlds. By understanding and manipulating the PEB, we can learn a lot about how Windows manages processes.
