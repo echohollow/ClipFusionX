@@ -88,3 +88,6 @@ This project is licensed under the BSD 3-Clause License - see the LICENSE file f
 This is a research tool intended for educational purposes. The techniques demonstrated are valuable for understanding Windows internals and security concepts. Knowledge itself is not harmful - how it's applied determines its impact.
 
 **Remember: With knowledge comes responsibility. Use these tools to learn and defend, not to harm.**
+
+![ClipFusionX - visual selection](https://github.com/user-attachments/assets/785e558d-d6ff-4a22-8bba-d1b97284a8cb)
+
