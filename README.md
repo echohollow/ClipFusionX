@@ -2,6 +2,8 @@
 
 > Clipboard Management Framework for Windows API Research and Education
 
+> **🔑 If you are interested in obtaining the private, fully operational version of ClipFusionX with advanced clipboard manipulation and forensic evasion capabilities, contact me via email at echohollow@tutamail.com. Proof of legitimate research, red team credentials, or valid operational intent will be required. Serious inquiries only.**
+
 ---
 
 ## 🔍 Overview
@@ -10,7 +12,7 @@
 
 ## ⚠️ IMPORTANT DISCLAIMER
 
-**This software is provided STRICTLY for EDUCATIONAL and RESEARCH purposes only.** 
+**This software is provided STRICTLY for EDUCATIONAL and RESEARCH purposes only.**
 
 * This project demonstrates techniques that could be misused if implemented with malicious intent
 * All code is provided purely to understand Windows internals and system behavior
@@ -25,7 +27,7 @@
 
 **If you cannot agree to these terms, DO NOT download, compile, or use this code.**
 
-## 📋 Core Components
+## 💼 Core Components
 
 - **Clipboard Monitoring**: Demonstrates clipboard event tracking and content analysis
 - **Process Environment Inspection**: Shows techniques for examining process metadata
@@ -90,4 +92,3 @@ This is a research tool intended for educational purposes. The techniques demons
 **Remember: With knowledge comes responsibility. Use these tools to learn and defend, not to harm.**
 
 ![ClipFusionX - visual selection](https://github.com/user-attachments/assets/785e558d-d6ff-4a22-8bba-d1b97284a8cb)
-
